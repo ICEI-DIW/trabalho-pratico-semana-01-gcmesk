@@ -7,7 +7,10 @@ Nome: Glauco Coelho de Mesquita
 Matricula: 885291 
 
 ## Tela de inspeção com navegador
-(Tela de inspeção com navegador) https://github.com/gcmesk/tela-de-inspecao-fanta-website
+![Captura de tela 2025-02-13 154923](https://github.com/user-attachments/assets/4899d2c6-7676-4e83-ae41-90c82ef1a5df)
+
 
 ## Tela de projeto no Replit
+![image](https://github.com/user-attachments/assets/f8114248-7f0b-439e-8e33-8b664c1f14ff)
+
 
