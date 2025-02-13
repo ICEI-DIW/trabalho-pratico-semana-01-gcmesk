@@ -11,6 +11,7 @@ Matricula: 885291
 
 
 ## Tela de projeto no Replit
-![image](https://github.com/user-attachments/assets/f8114248-7f0b-439e-8e33-8b664c1f14ff)
+![image](https://github.com/user-attachments/assets/f2ce32d8-c196-45c0-b37f-a8f2f5c16d59)
+
 
 
