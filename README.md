@@ -7,11 +7,11 @@ Nome: Glauco Coelho de Mesquita
 Matricula: 885291 
 
 ## Tela de inspeção com navegador
-![Captura de tela 2025-02-13 154923](https://github.com/user-attachments/assets/4899d2c6-7676-4e83-ae41-90c82ef1a5df)
-
+![Captura de tela 2025-02-13 172139](https://github.com/user-attachments/assets/c10ce9b3-30f3-4995-807e-66d30dd0e576)
 
 ## Tela de projeto no Replit
-![image](https://github.com/user-attachments/assets/f2ce32d8-c196-45c0-b37f-a8f2f5c16d59)
+![image](https://github.com/user-attachments/assets/e87c58cd-21f8-4595-935d-606a0d5955cf)
+
 
 
 
